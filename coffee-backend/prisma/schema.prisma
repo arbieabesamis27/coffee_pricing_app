@@ -1,0 +1,68 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URI")
+}
+
+
+model Ingredient {
+id String @id @map("_id") @default(auto()) @db.ObjectId
+name String @unique
+price Float // total price for the package/bottle (e.g. 90 pesos)
+contentSize Float // total content amount (e.g. 1000 ml)
+unit String // e.g. "ml", "g", "shot"
+ingredients DrinkIngredient[] @relation("IngredientToDI")
+createdAt DateTime @default(now())
+updatedAt DateTime @updatedAt
+}
+
+
+model Drink {
+id String @id @map("_id") @default(auto()) @db.ObjectId
+name String @unique
+description String?
+variants DrinkVariant[]
+createdAt DateTime @default(now())
+updatedAt DateTime @updatedAt
+}
+
+
+model DrinkVariant {
+id String @id @map("_id") @default(auto()) @db.ObjectId
+name String // e.g. "Medium", "Large"
+sizeOz Int // e.g. 16, 22
+profit Float @default(0)
+drinkId String @db.ObjectId
+drink Drink @relation(fields: [drinkId], references: [id], onDelete: Cascade)
+ingredients DrinkIngredient[]
+createdAt DateTime @default(now())
+updatedAt DateTime @updatedAt
+
+
+@@unique([drinkId, name])
+}
+
+
+model DrinkIngredient {
+id String @id @map("_id") @default(auto()) @db.ObjectId
+variantId String @db.ObjectId
+ingredientId String @db.ObjectId
+quantity Float // how much of ingredient is used in this variant
+
+
+variant DrinkVariant @relation(fields: [variantId], references: [id], onDelete: Cascade)
+ingredient Ingredient @relation("IngredientToDI", fields: [ingredientId], references: [id])
+
+
+@@unique([variantId, ingredientId])
+}
+
+
+
