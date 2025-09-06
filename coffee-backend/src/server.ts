@@ -18,7 +18,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://coffee-frontend-qc73xuwlw-arbieabesamis27s-projects.vercel.app/",
+      "https://coffee-frontend-6h3ri1917-arbieabesamis27s-projects.vercel.app/",
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
