@@ -14,7 +14,13 @@ try {
 }
 
 const app = express();
-app.use(cors());
+app.use(
+  cors({
+    origin: "*", // ✅ allow all origins (public API)
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
 app.use(express.json());
 
