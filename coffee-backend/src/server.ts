@@ -16,8 +16,11 @@ try {
 const app = express();
 app.use(
   cors({
-    origin: "*", // allow all for now (can restrict later)
-    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    origin: [
+      "http://localhost:5173",
+      "https://coffee-frontend-qc73xuwlw-arbieabesamis27s-projects.vercel.app/",
+    ],
+    methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
