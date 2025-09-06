@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx src/app.ts",
+    "dev": "tsx src/server.ts",
     "build": "tsc",
-    "start": "node api/index.js"
+    "start": "node src/api/index.js"
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
