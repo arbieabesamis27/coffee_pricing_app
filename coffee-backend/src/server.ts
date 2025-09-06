@@ -1,8 +1,10 @@
 import "dotenv/config";
 import express from "express";
 import cors from "cors";
-import { prisma } from "./prisma";
-import { computeVariantPricing, unitPrice } from "./utils/pricing";
+import { computeVariantPricing, unitPrice } from "./utils/pricing.js";
+import { PrismaClient } from "../generated/prisma/client.js";
+
+export const prisma = new PrismaClient();
 
 const app = express();
 app.use(cors());
