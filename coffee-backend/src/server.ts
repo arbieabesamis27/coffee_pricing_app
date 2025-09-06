@@ -6,8 +6,21 @@ import { PrismaClient } from "../generated/prisma/client.js";
 
 export const prisma = new PrismaClient();
 
+try {
+  await prisma.$connect();
+  console.log("✅ Prisma connected to database");
+} catch (err) {
+  console.error("❌ Prisma connection failed", err);
+}
+
 const app = express();
-app.use(cors({ origin: "*" }));
+app.use(
+  cors({
+    origin: ["http://localhost:5173", "https://your-frontend.vercel.app"],
+    methods: ["GET", "POST", "PUT", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
 app.use(express.json());
 
