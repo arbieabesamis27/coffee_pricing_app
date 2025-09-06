@@ -330,6 +330,9 @@ app.put("/variants/:id", async (req, res) => {
   res.json(updatedVariant);
 });
 
-app.listen(4000, () => {
-  console.log("Server is running on port 4000");
+app.use((err: any, _req: any, res: any, _next: any) => {
+  console.error("Server error:", err);
+  res.status(500).json({ error: "Internal server error" });
 });
+
+export default app;
