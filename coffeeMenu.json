@@ -1,0 +1,4641 @@
+[
+  {
+    "name": "Hot Americano",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Water",
+            "quantity": 400,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 12,
+        "ingredients": [
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "12oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Water",
+            "quantity": 300,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iced Americano",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Water",
+            "quantity": 250,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Water",
+            "quantity": 200,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hot Cafe Latte / Cappucino",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 350,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 12,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "12oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iced Cafe Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hot Cafe Mocha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 350,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 12,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "12oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iced Cafe Mocha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hot Caramel Macchiato",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 350,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 12,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "12oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iced Caramel Macchiato",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hot White Choco Mocha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 350,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 12,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "12oz Hot Cup/Lid",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Iced White Choco Mocha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vanilla / Almond / Hazelnut Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "French Vanilla Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "French Vanilla Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "French Vanilla Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spanish Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Condensed Milk",
+            "quantity": 50,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Condensed Milk",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Salted Caramel",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Mocha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 20,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sea Salt Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Rock Salt & Cheese Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Sea Salt Coarse",
+            "quantity": 3,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Rock Salt & Cheese Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Sea Salt Coarse",
+            "quantity": 2,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matcha Espresso",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 20,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caramel Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 350,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 250,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cookies n' Cream Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 45,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vanilla Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hershey's Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Chips",
+            "quantity": 5,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Chips",
+            "quantity": 5,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matcha Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taro Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strawberry / Mango / Blueberry Cheesecake Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 300,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 36,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 20,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Triple Chocolate Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Chip",
+            "quantity": 30,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 15,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 15,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Chip",
+            "quantity": 20,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "White Choco Matcha Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hershey’s Chocolate Cookies & Cream Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 40,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Cocoa Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coffee Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Caramel Espresso Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Caramel Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mocha Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Coffee Jelly",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Coffee Jelly",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 198,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Coffee Jelly",
+            "quantity": 20,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cookies n’ Cream Espresso Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 45,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Java Chip Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Chip",
+            "quantity": 45,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Chip",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matcha Espresso Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "White Mocha Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 45,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 35,
+            "unit": "ml"
+          },
+          {
+            "name": "White Chocolate Drizzle",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dark Mocha Frappe",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 3,
+            "unit": "shot"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Espresso",
+            "quantity": 2,
+            "unit": "shot"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Frappe Cream Base Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Whipping Cream",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Xanthan Gum Powder",
+            "quantity": 1,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taro Iced",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Okinawa / Butterscotch / Strawberry / Mango / Blueberry Cream Milk",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strawberry / Mango / Blueberry Cheesecake",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Matcha Latte",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 35,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 25,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hershey's Chocolate",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Choco Matcha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 30,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Chocolate Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 20,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strawberry Matcha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 20,
+            "unit": "ml"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 20,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Strawberry Oreo",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 40,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Strawberry / Blueberry / Mango Jam",
+            "quantity": 10,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Taro",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Cocoa",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Dark Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Winter Melon",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Winter Melon Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Hershey’s",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cream Cheese Matcha",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 60,
+            "unit": "ml"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "Milk Arla Barista",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Matcha Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Cream Cheese",
+            "quantity": 40,
+            "unit": "ml"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Classic Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Almond / Caramel / Hazelnut / Okinawa / Winter Melon / Hokkaido Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Vanilla / Caramel / Salted Caramel / Almond / Hazelnut / Strawberry / Blueberry / Mango / Okinawa / Butterscotch / Winter Melon / Hokkaido Syrup",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cookies n’ Cream Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 40,
+            "unit": "ml"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 40,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "White Chocolate Sauce",
+            "quantity": 30,
+            "unit": "ml"
+          },
+          {
+            "name": "Oreo Crushed",
+            "quantity": 30,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Taro Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Taro Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hershey’s Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Powder",
+            "quantity": 25,
+            "unit": "grams"
+          },
+          {
+            "name": "Hershey's Chocolate Sauce",
+            "quantity": 10,
+            "unit": "ml"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cheesecake Milk Tea",
+    "variants": [
+      {
+        "name": "Large",
+        "sizeOz": 22,
+        "ingredients": [
+          {
+            "name": "22oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 300,
+            "unit": "grams"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 45,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 250,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 64,
+            "unit": "grams"
+          }
+        ]
+      },
+      {
+        "name": "Medium",
+        "sizeOz": 16,
+        "ingredients": [
+          {
+            "name": "16oz Cup/Lid/Straw",
+            "quantity": 1,
+            "unit": "set"
+          },
+          {
+            "name": "Ice Cube",
+            "quantity": 200,
+            "unit": "grams"
+          },
+          {
+            "name": "Cheesecake Powder",
+            "quantity": 35,
+            "unit": "grams"
+          },
+          {
+            "name": "Black Tea",
+            "quantity": 200,
+            "unit": "ml"
+          },
+          {
+            "name": "Tapioca",
+            "quantity": 100,
+            "unit": "grams"
+          },
+          {
+            "name": "Milk Essence Creamer",
+            "quantity": 48,
+            "unit": "grams"
+          }
+        ]
+      }
+    ]
+  }
+]

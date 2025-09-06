@@ -187,7 +187,7 @@ export default function AddEditDrink({
             {(v.ingredients ?? []).map((ing: any, ii: number) => (
               <div key={ii} className="flex gap-2 items-center mb-2">
                 <select
-                  className="border p-2 flex-1"
+                  className="border p-2 flex-1 w-[100px] overflow-hidden  text-overflow-ellipsis"
                   value={ing.ingredientId}
                   onChange={(e) =>
                     setIngredientField(vi, ii, "ingredientId", e.target.value)

@@ -108,6 +108,10 @@ app.delete("/ingredients/:id", async (req, res) => {
 app.post("/drinks", async (req, res) => {
   const { name, description } = req.body;
   if (!name) return res.status(400).json({ error: "name is required" });
+  const alreadyExists = await prisma.drink.findFirst({ where: { name } });
+  if (alreadyExists) {
+    return res.status(400).json({ error: "Drink already exists" });
+  }
   const drink = await prisma.drink.create({ data: { name, description } });
   res.json(drink);
 });
@@ -151,6 +155,28 @@ app.get("/drinks", async (_req, res) => {
   }));
 
   res.json(result);
+});
+
+app.get("/drinks/info", async (req, res) => {
+  try {
+    const drinks = await prisma.drink.findMany({
+      include: {
+        variants: {
+          include: { ingredients: { include: { ingredient: true } } },
+        },
+      },
+      orderBy: { id: "asc" },
+    });
+
+    const result = drinks.map((drink) => ({
+      name: drink.name,
+    }));
+
+    res.json(result);
+  } catch (error) {
+    console.error("Error fetching drink info:", error);
+    res.status(500).json({ error: "Internal server error" });
+  }
 });
 
 // Read one Drink
