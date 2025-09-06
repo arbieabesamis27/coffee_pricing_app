@@ -16,13 +16,19 @@ try {
 const app = express();
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://your-frontend.vercel.app"],
-    methods: ["GET", "POST", "PUT", "DELETE"],
+    origin: "*", // allow all for now (can restrict later)
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
 
 app.use(express.json());
+
+app.get("/", (_req, res) => {
+  res.json({
+    message: "Coffee backend API is running. Try /health or /drinks.",
+  });
+});
 
 /* ------------------------- Health ------------------------- */
 app.get("/health", (_req, res) => res.json({ ok: true }));
